@@ -1,9 +1,7 @@
 # Lab 01 - Security Audit
 
 ## Objective
-Conduct an internal security audit for a fictional company (Botium Toys)
-by assessing existing controls, identifying compliance gaps, and making
-remediation recommendations based on the NIST CSF.
+Conduct an internal security audit for a fictional company (Botium Toys) by assessing existing controls, identifying compliance gaps, and making remediation recommendations based on the NIST CSF.
 
 ## Scenario Summary
 Botium Toys is a small business toy company with a rapidly growing internet presence. Their IT manager has decided that an internal IT audit need to be done. She is worried about maintaining compliance, especially regarding conducting business in the European Union, and business operations. My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
@@ -63,4 +61,6 @@ Botium Toys is a small business toy company with a rapidly growing internet pres
 |Data is available to individuals authorized to access it.| Yes | IT department ensures avalibility of data |
 
 ## Recommendations
-Multiple controls need to be implemented at Botium Toys in order to improve security posture. Most importantly is to fix compliance issues in order to adhere to the Payment Card Industry Data Security Standard, including actions like limiting access to customers PII, SPII, and credit card information; as well as implementing a password management system and enforcing a password policy. 
+Multiple controls need to be implemented at Botium Toys in order to improve security posture including installing an Intrusion Detection System (IDS), encrypting sensitive data, and creating disaster recovery plans. Most importantly is to fix compliance issues in order to adhere to the Payment Card Industry Data Security Standard, including actions like limiting access to customers PII, SPII, and credit card information; as well as implementing a password management system and enforcing a password policy. 
+
+# Lessons Learned
