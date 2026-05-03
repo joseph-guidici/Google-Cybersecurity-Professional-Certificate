@@ -52,7 +52,7 @@ Botium Toys is a small business toy company with a rapidly growing internet pres
 |Ensure data is properly classified and inventoried.| Yes | Data is properly stored |
 |Enforce privacy policies, procedures, and processes to properly document and maintain data.| Yes | Policies and procedures well enforces |
 
-## SOC type 1 & type 2 Findings
+## SOC type 1 & SOC type 2 Findings
 | Best Practice | In Place? | Notes |
 |---------------|-----------|-------|
 |User access policies are established.| No | All employees can access all data |
