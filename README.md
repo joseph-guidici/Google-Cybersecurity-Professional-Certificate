@@ -45,7 +45,7 @@ All lab work was performed in controlled environments provided by the Google Cyb
 
 ## 🔬 Labs & Projects
 
-**[Ethical & Legal Disclosure](https://github.com/joseph-guidici/joseph-guidici/blob/main/ETHICS.md)**
+**[Ethical & Legal Disclosure](./labs/ETHICS.md)**
 
 | Lab / Project | Course | Topic | Status | Folder |
 |---------------|--------|-------|--------|--------|
