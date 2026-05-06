@@ -45,8 +45,6 @@ All lab work was performed in controlled environments provided by the Google Cyb
 
 ## 🔬 Labs & Projects
 
-**[Ethical & Legal Disclosure](./labs/ETHICS.md)**
-
 | Lab / Project | Course | Topic | Status | Folder |
 |---------------|--------|-------|--------|--------|
 | Security Audit — Botium Toys | Course 2 | Risk assessment, controls & compliance | ✅ Completed | [📁 labs/security-audit](./labs/security-audit/) |
