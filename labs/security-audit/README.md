@@ -63,5 +63,7 @@ Botium Toys is a small business toy company with a rapidly growing internet pres
 ## Recommendations
 Multiple controls need to be implemented at Botium Toys in order to improve security posture including installing an Intrusion Detection System (IDS), encrypting sensitive data, and creating disaster recovery plans. Most importantly is to fix compliance issues in order to adhere to the Payment Card Industry Data Security Standard, including actions like limiting access to customers PII, SPII, and credit card information; as well as implementing a password management system and enforcing a password policy. 
 
+A stakeholder summary in plain English is available [here](./Stakeholder-Summary.pdf).
+
 # Lessons Learned
 Performing this lab helped me gain experience auiditing a company and showed me how quickly compliance gaps add up. The compliance gaps that stood out to me the most were around PCI DSS. Botium Toys were handling customer credit card data but had no encryption or access control measures in place. The biggest takeaway was the difference between a control existing on paper and actually being enforced. Several policies were listed as being in place but were not actively being enforced. When conducting an audit, that distinction matters as much as whether the control exists at all. Going foward I would like to explore how organizations prioritize which compliance gaps to close first when they have limited resources.
