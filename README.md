@@ -34,11 +34,11 @@ All lab work was performed in controlled environments provided by the Google Cyb
 | 2 | Play It Safe: Manage Security Risks | [✅ Completed](./certificates/Play-It-Safe-Manage-Security-Risks.pdf) |
 | 3 | Connect and Protect: Networks and Network Security | [✅ Completed](./certificates/Connect-and-Protect-Networks-and-Network-Security.pdf) |
 | 4 | Tools of the Trade: Linux and SQL | 🔄 In Progress |
-| 5 | Assets, Threats, and Vulnerabilities | ⬜ Not Started |
-| 6 | Sound the Alarm: Detection and Response | ⬜ Not Started |
-| 7 | Automate Cybersecurity Tasks with Python | ⬜ Not Started |
-| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Not Started |
-| 9 | Accelerate Your Job Search with AI | ⬜ Not Started |
+| 5 | Assets, Threats, and Vulnerabilities | ⬜  |
+| 6 | Sound the Alarm: Detection and Response | ⬜  |
+| 7 | Automate Cybersecurity Tasks with Python | ⬜  |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜  |
+| 9 | Accelerate Your Job Search with AI | ⬜  |
 
 
 ---
@@ -51,9 +51,9 @@ All lab work was performed in controlled environments provided by the Google Cyb
 | Network Traffic Analysis | Course 3 | Wireshark, packet capture | ✅ Completed | [📁 labs/network-traffic-analysis](./labs/network-traffic-analysis/) |
 | Linux File Permissions | Course 4 | chmod, user management | ✅ Completed | [📁 labs/linux-permissions](./labs/linux-permissions/) |
 | SQL Security Filters | Course 4 | Querying & filtering logs | 🔄 In Progress | — |
-| Vulnerability Assessment | Course 5 | NIST framework, risk scoring | ⬜ Not Started | — |
-| Incident Handler's Journal | Course 6 | Detection & response documentation | ⬜ Not Started | — |
-| Python File Parser | Course 7 | Automating log analysis | ⬜ Not Started | — |
+| Vulnerability Assessment | Course 5 | NIST framework, risk scoring | ⬜  | — |
+| Incident Handler's Journal | Course 6 | Detection & response documentation | ⬜  | — |
+| Python File Parser | Course 7 | Automating log analysis | ⬜  | — |
 
 
 ---
