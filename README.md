@@ -49,8 +49,8 @@ All lab work was performed in controlled environments provided by the Google Cyb
 |---------------|--------|-------|--------|--------|
 | Security Audit — Botium Toys | Course 2 | Risk assessment, controls & compliance | ✅ Completed | [📁 labs/security-audit](./labs/security-audit/) |
 | Network Traffic Analysis | Course 3 | Wireshark, packet capture | ✅ Completed | [📁 labs/network-traffic-analysis](./labs/network-traffic-analysis/) |
-| Linux File Permissions | Course 4 | chmod, user management | 🔄 In Progress | — |
-| SQL Security Filters | Course 4 | Querying & filtering logs | ⬜ Not Started | — |
+| Linux File Permissions | Course 4 | chmod, user management | ✅ Completed | [📁 labs/linux-permissions](./labs/linux-permissions/) |
+| SQL Security Filters | Course 4 | Querying & filtering logs | 🔄 In Progress | — |
 | Vulnerability Assessment | Course 5 | NIST framework, risk scoring | ⬜ Not Started | — |
 | Incident Handler's Journal | Course 6 | Detection & response documentation | ⬜ Not Started | — |
 | Python File Parser | Course 7 | Automating log analysis | ⬜ Not Started | — |
