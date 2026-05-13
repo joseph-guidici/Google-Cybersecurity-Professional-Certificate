@@ -30,9 +30,9 @@ All lab work was performed in controlled environments provided by the Google Cyb
 
 | # | Course | Status | Certificate |
 |---|--------|--------|---------------|
-| 1 | Foundations of Cybersecurity | ✅Completed | [PDF](./certificates/Foundations-of-Cybersecurity.pdf) |
-| 2 | Play It Safe: Manage Security Risks | ✅Completed | [PDF](./certificates/Play-It-Safe-Manage-Security-Risks.pdf) |
-| 3 | Connect and Protect: Networks and Network Security | ✅Completed | [PDF](./certificates/Connect-and-Protect-Networks-and-Network-Security.pdf) |
+| 1 | Foundations of Cybersecurity | ✅Completed | [📄 PDF](./certificates/Foundations-of-Cybersecurity.pdf) |
+| 2 | Play It Safe: Manage Security Risks | ✅Completed | [📄 PDF](./certificates/Play-It-Safe-Manage-Security-Risks.pdf) |
+| 3 | Connect and Protect: Networks and Network Security | ✅Completed | [📄 PDF](./certificates/Connect-and-Protect-Networks-and-Network-Security.pdf) |
 | 4 | Tools of the Trade: Linux and SQL | 🔄In Progress |
 | 5 | Assets, Threats, and Vulnerabilities | ⬜  |
 | 6 | Sound the Alarm: Detection and Response | ⬜  |
