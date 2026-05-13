@@ -28,7 +28,7 @@ All lab work was performed in controlled environments provided by the Google Cyb
 
 ## 📚 Course Progress
 
-| # | Course | Status | Certification |
+| # | Course | Status | Certificate |
 |---|--------|--------|---------------|
 | 1 | Foundations of Cybersecurity | ✅Completed | [PDF](./certificates/Foundations-of-Cybersecurity.pdf) |
 | 2 | Play It Safe: Manage Security Risks | ✅Completed | [PDF](./certificates/Play-It-Safe-Manage-Security-Risks.pdf) |
