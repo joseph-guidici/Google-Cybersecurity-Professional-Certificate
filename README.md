@@ -28,12 +28,12 @@ All lab work was performed in controlled environments provided by the Google Cyb
 
 ## 📚 Course Progress
 
-| # | Course | Status |
-|---|--------|--------|
-| 1 | Foundations of Cybersecurity | [✅ Completed](./certificates/Foundations-of-Cybersecurity.pdf) |
-| 2 | Play It Safe: Manage Security Risks | [✅ Completed](./certificates/Play-It-Safe-Manage-Security-Risks.pdf) |
-| 3 | Connect and Protect: Networks and Network Security | [✅ Completed](./certificates/Connect-and-Protect-Networks-and-Network-Security.pdf) |
-| 4 | Tools of the Trade: Linux and SQL | 🔄 In Progress |
+| # | Course | Status | Certification |
+|---|--------|--------|---------------|
+| 1 | Foundations of Cybersecurity | ✅Completed | [PDF](./certificates/Foundations-of-Cybersecurity.pdf) |
+| 2 | Play It Safe: Manage Security Risks | ✅Completed | [PDF](./certificates/Play-It-Safe-Manage-Security-Risks.pdf) |
+| 3 | Connect and Protect: Networks and Network Security | ✅Completed | [PDF](./certificates/Connect-and-Protect-Networks-and-Network-Security.pdf) |
+| 4 | Tools of the Trade: Linux and SQL | 🔄In Progress |
 | 5 | Assets, Threats, and Vulnerabilities | ⬜  |
 | 6 | Sound the Alarm: Detection and Response | ⬜  |
 | 7 | Automate Cybersecurity Tasks with Python | ⬜  |
@@ -47,10 +47,10 @@ All lab work was performed in controlled environments provided by the Google Cyb
 
 | Lab / Project | Course | Topic | Status | Folder |
 |---------------|--------|-------|--------|--------|
-| Security Audit — Botium Toys | Course 2 | Risk assessment, controls & compliance | ✅ Completed | [📁 labs/security-audit](./labs/security-audit/) |
-| Network Traffic Analysis | Course 3 | Wireshark, packet capture | ✅ Completed | [📁 labs/network-traffic-analysis](./labs/network-traffic-analysis/) |
-| Linux File Permissions | Course 4 | chmod, user management | ✅ Completed | [📁 labs/linux-permissions](./labs/linux-permissions/) |
-| SQL Security Filters | Course 4 | Querying & filtering logs | 🔄 In Progress | — |
+| Security Audit — Botium Toys | Course 2 | Risk assessment, controls & compliance | ✅Completed | [📁 labs/security-audit](./labs/security-audit/) |
+| Network Traffic Analysis | Course 3 | Wireshark, packet capture | ✅Completed | [📁 labs/network-traffic-analysis](./labs/network-traffic-analysis/) |
+| Linux File Permissions | Course 4 | chmod, user management | ✅Completed | [📁 labs/linux-permissions](./labs/linux-permissions/) |
+| SQL Security Filters | Course 4 | Querying & filtering logs | 🔄In Progress | — |
 | Vulnerability Assessment | Course 5 | NIST framework, risk scoring | ⬜  | — |
 | Incident Handler's Journal | Course 6 | Detection & response documentation | ⬜  | — |
 | Python File Parser | Course 7 | Automating log analysis | ⬜  | — |
