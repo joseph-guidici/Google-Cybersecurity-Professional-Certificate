@@ -48,3 +48,9 @@ Defined recovery steps to return operations to normal and prevent recurrence:
 Working through this scenario reinforced how the NIST CSF functions as more than just a checklist, but a structured way of thinking through an incident from all angles. The identify and protect phases are where a lot of future incidents are actually prevented, not just the respond phase where most attention tends to go during an active attack.
 
 This lab also made the relationship between network-layer attacks and organizational risk very concrete. A two-hour service outage from an ICMP flood has real downstream consequences — lost revenue, damaged trust, and potential SLA violations — which is exactly why having a documented response plan before an incident occurs matters.
+
+---
+
+## 🔗 Back to Main Portfolio
+ 
+[← Return to Google Cybersecurity Certificate Repository](../../README.md)

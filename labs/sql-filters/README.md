@@ -124,3 +124,9 @@ WHERE department != 'Information Technology';
 - SQL filters let you isolate exactly the data you need from large tables — critical when triaging a security incident where every irrelevant row adds noise.
 - Operators like `LIKE`, `BETWEEN`, and `IN` significantly cut down the number of queries needed by handling pattern matching and multi-value conditions in a single statement.
 - Combining conditions with `AND`, `NOT`, and `!=` makes it possible to express precise, targeted scenarios — not just "find these records," but "find everything that doesn't fit this profile."
+
+---
+
+## 🔗 Back to Main Portfolio
+ 
+[← Return to Google Cybersecurity Certificate Repository](../../README.md)

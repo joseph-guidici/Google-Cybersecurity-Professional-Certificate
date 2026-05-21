@@ -67,3 +67,9 @@ A stakeholder summary in plain English is available [here](./Stakeholder-Summary
 
 # Lessons Learned
 Performing this lab helped me gain experience auiditing a company and showed me how quickly compliance gaps add up. The compliance gaps that stood out to me the most were around PCI DSS. Botium Toys were handling customer credit card data but had no encryption or access control measures in place. The biggest takeaway was the difference between a control existing on paper and actually being enforced. Several policies were listed as being in place but were not actively being enforced. When conducting an audit, that distinction matters as much as whether the control exists at all. Going foward I would like to explore how organizations prioritize which compliance gaps to close first when they have limited resources.
+
+---
+
+## 🔗 Back to Main Portfolio
+ 
+[← Return to Google Cybersecurity Certificate Repository](../../README.md)

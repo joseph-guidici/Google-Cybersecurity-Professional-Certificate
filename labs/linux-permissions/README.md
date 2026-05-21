@@ -102,3 +102,9 @@ chmod g-x drafts
 - The `ls -la` command is essential for auditing permissions because it surfaces hidden files that a standard `ls` would skip entirely.
 - The `chmod` command gives precise control over who can read, write, or execute a file — and changes take effect immediately.
 - Applying the principle of least privilege means routinely checking for and removing permissions that aren't explicitly needed, not just adding the ones that are.
+
+---
+
+## 🔗 Back to Main Portfolio
+ 
+[← Return to Google Cybersecurity Certificate Repository](../../README.md)
