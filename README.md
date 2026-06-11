@@ -36,8 +36,8 @@ All lab work was performed in controlled environments provided by the Google Cyb
 | 4 | Tools of the Trade: Linux and SQL | ✅Completed | [📄 PDF](./certificates/Tools-of-the-Trade-Linux-and-SQL.pdf) | 
 | 5 | Assets, Threats, and Vulnerabilities | ✅Completed | [📄 PDF](./certificates/Assets-Threats-and-Vulnerabilities.pdf) | 
 | 6 | Sound the Alarm: Detection and Response | ✅Completed | [📄 PDF](./certificates/Sound-the-Alarm-Detection-and-Response.pdf) | 
-| 7 | Automate Cybersecurity Tasks with Python | 🔄In Progress |
-| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜  |
+| 7 | Automate Cybersecurity Tasks with Python | ✅Completed | [📄 PDF](./certificates/Automate-Cybersecurity-Tasks-with-Python.pdf) | 
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | 🔄In Progress |
 | 9 | Accelerate Your Job Search with AI | ⬜  |
 
 
@@ -53,7 +53,7 @@ All lab work was performed in controlled environments provided by the Google Cyb
 | SQL Security Filters | Course 4 | Querying & filtering logs | ✅Completed | [📁 labs/sql-filters](./labs/sql-filters/) |
 | Vulnerability Assessment | Course 5 | NIST framework, risk scoring | ✅Completed | [📁 labs/vulnerability-assessment](./labs/vulnerability-assessment/) |
 | Incident Handler's Journal | Course 6 | Detection & response documentation | ✅Completed | [📁 labs/incident-handlers-journal](./labs/incident-handlers-journal/) |
-| Python File Parser | Course 7 | Automating log analysis | 🔄In Progress | — |
+| Python File Parser | Course 7 | Automating log analysis | ✅Completed | [📁 labs/python-file-parser](./labs/python-file-parser/) |
 
 
 ---
