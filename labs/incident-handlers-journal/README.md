@@ -110,4 +110,6 @@ The scenarios span a range of common attack types: ransomware, phishing/malware 
 
 ---
 
-[← Back to Portfolio](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate)
+## 🔗 Back to Main Portfolio
+
+[← Return to Google Cybersecurity Certificate Repository](../../README.md)
