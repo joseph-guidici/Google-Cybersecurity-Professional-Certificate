@@ -21,7 +21,7 @@ All lab work was performed in controlled environments provided by the Google Cyb
 | **Certificate** | Google Cybersecurity Certificate |
 | **Issuer** | Google / Coursera |
 | **Status** | ✅ Completed |
-| **Verified Badge** | *Will be linked upon completion via Credly* |
+| **Verified Badge** | ![Google Cybersecurity Badge](./certificates/Google-Cybersecurity-Badge.png) |
 | **Certificate PDF** | [📄 PDF](./certificates/Google-Cybersecurity.pdf) |
 
 ---
